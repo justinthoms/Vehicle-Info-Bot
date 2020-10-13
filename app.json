@@ -1,8 +1,8 @@
 {
   "name": "Vehicle Info Bot",
   "description": "A telegram bot which gather all possible information about an indian Vehicle registration number",
-  "repository": "https://github.com/agentnova/Vehicle-Info-Bot",
-  "logo": "https://github.com/agentnova/Vehicle-Info-Bot/blob/main/logo.jpg?raw=true",
+  "repository": "https://github.com/justinthoms/Vehicle-Info-Bot",
+  "logo": "https://github.com/justinthoms/Vehicle-Info-Bot/blob/main/logo.jpg?raw=true",
   "keywords": ["telegram","telegram bot","bot","pyrogram","vehicle info","information gathering","mvd bot","vehicle"],
   "env": {
     "BOT_TOKEN": {
